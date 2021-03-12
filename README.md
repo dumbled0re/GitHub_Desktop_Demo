@@ -1,4 +1,5 @@
 # GitHub Desktop Demo
 
-. Commit
-. Branch
+1. Commit
+1. Branch
+1. Merge
