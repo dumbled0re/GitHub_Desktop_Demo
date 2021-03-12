@@ -1,4 +1,4 @@
 # GitHub Desktop Demo
 
-. Commit
-. Branch
+１. Commit
+１. Branch
