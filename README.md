@@ -5,3 +5,4 @@
 1. Merge
 1. Edit from web
 1. Merged using Meld
+1. Edit from web for rebase
